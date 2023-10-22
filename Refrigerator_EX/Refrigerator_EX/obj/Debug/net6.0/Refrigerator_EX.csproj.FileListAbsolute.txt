@@ -1,0 +1,15 @@
+C:\Users\T450\Desktop\Refrigerator_EX\Refrigerator_EX\bin\Debug\net6.0\Refrigerator_EX.exe
+C:\Users\T450\Desktop\Refrigerator_EX\Refrigerator_EX\bin\Debug\net6.0\Refrigerator_EX.deps.json
+C:\Users\T450\Desktop\Refrigerator_EX\Refrigerator_EX\bin\Debug\net6.0\Refrigerator_EX.runtimeconfig.json
+C:\Users\T450\Desktop\Refrigerator_EX\Refrigerator_EX\bin\Debug\net6.0\Refrigerator_EX.dll
+C:\Users\T450\Desktop\Refrigerator_EX\Refrigerator_EX\bin\Debug\net6.0\Refrigerator_EX.pdb
+C:\Users\T450\Desktop\Refrigerator_EX\Refrigerator_EX\obj\Debug\net6.0\Refrigerator_EX.csproj.AssemblyReference.cache
+C:\Users\T450\Desktop\Refrigerator_EX\Refrigerator_EX\obj\Debug\net6.0\Refrigerator_EX.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T450\Desktop\Refrigerator_EX\Refrigerator_EX\obj\Debug\net6.0\Refrigerator_EX.AssemblyInfoInputs.cache
+C:\Users\T450\Desktop\Refrigerator_EX\Refrigerator_EX\obj\Debug\net6.0\Refrigerator_EX.AssemblyInfo.cs
+C:\Users\T450\Desktop\Refrigerator_EX\Refrigerator_EX\obj\Debug\net6.0\Refrigerator_EX.csproj.CoreCompileInputs.cache
+C:\Users\T450\Desktop\Refrigerator_EX\Refrigerator_EX\obj\Debug\net6.0\Refrigerator_EX.dll
+C:\Users\T450\Desktop\Refrigerator_EX\Refrigerator_EX\obj\Debug\net6.0\refint\Refrigerator_EX.dll
+C:\Users\T450\Desktop\Refrigerator_EX\Refrigerator_EX\obj\Debug\net6.0\Refrigerator_EX.pdb
+C:\Users\T450\Desktop\Refrigerator_EX\Refrigerator_EX\obj\Debug\net6.0\Refrigerator_EX.genruntimeconfig.cache
+C:\Users\T450\Desktop\Refrigerator_EX\Refrigerator_EX\obj\Debug\net6.0\ref\Refrigerator_EX.dll
